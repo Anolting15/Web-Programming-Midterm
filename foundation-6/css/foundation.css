@@ -83,7 +83,23 @@ hr {
   /* 1 */
   overflow: visible;
   /* 2 */ }
+/*
 
+        vvvv Styling for logo  -CW
+
+*/
+.logo {
+  width:25vw;
+  height:20vw;
+  max-height:150px;
+  max-width:200px;
+  float:left;
+}
+/*
+  
+        ^^^^ Styling for logo -CW
+  
+*/
 /**
      * Add the correct display in IE.
      */
